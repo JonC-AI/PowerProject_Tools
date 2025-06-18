@@ -4,7 +4,7 @@ This project is a promotional web page for the **PowerProject KLE550 Series** �
 
 ## 🌐 Live Preview
 
-> You can preview the site by opening `3019e7b0-d874-45c8-823b-2cc0f47d8613.html` in any modern browser.
+> You can preview the site by downloading the zip and opening it in VisualStudioCode (https://code.visualstudio.com/) and using a live server to view the file in any modern browser.
 
 ## 📁 Project Contents
 
