@@ -1,0 +1,210 @@
+
+/* Sets the margin and background color*/
+
+body {
+	background-color: #EAEAEA;
+	margin: 15px 20px;
+}
+
+/* This is the first section of the page that shows the company logo header and a short description of the company */
+
+#header {
+	background-color: #878487;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 1px;
+	text-align: center;
+}
+
+.logo {
+	border-radius: 20px;
+}
+
+.title {
+	font-family: Arial;
+	font-size: 30px;
+	color: #000000;
+}
+
+#header p {
+	text-transform: uppercase;
+	font-size: 20px;
+	font-style: italic;
+	color: #000000;
+	font-family: Arial;
+}
+
+/* The second section of the page that gives the overview and features of the companys newest series of tools */
+
+.specifications {
+	background-color: #A6AEC5;
+	box-shadow: 5px 5px 5px #8490AF;
+	border-radius: 10px;
+	padding: 10px 15px;
+	margin-top: 10px;
+}
+
+.overview {
+	background-color: #A0C4BD;
+	font-family: Arial;
+	border: 3px solid green;
+	border-radius: 20px;
+	padding-left: 15px;
+	font-size: 25px;
+	margin: 30px 20px 10px 20px;
+}
+
+.overview p {
+	font-family: Times;
+	font-size: 21px;
+	text-indent: 30px;
+}
+
+.features {
+	background-color: #A0C4BD;
+	font-family: Arial;
+	border: 3px solid green;
+	border-radius: 20px;
+	padding-left: 15px;
+	font-size: 25px;
+	margin: 30px 20px 10px 20px;
+}
+
+.features ul {
+	font-family: Times;
+	font-size: 21px;
+	list-style-type: square;
+}
+
+/* This section features of the table and all the elements inside */
+
+#table-head {
+	text-align: center;
+}
+
+table {
+	margin: 20px auto;
+}
+
+th, td {
+	text-align: left;
+	border: 2px solid #AFAFAF;
+	padding: 20px;
+	height: 10px;
+	width: 130px;
+}
+
+.clicked:hover {
+	background-color: #AFAFAF;
+}
+
+.cost {
+	text-align: right;
+	font-weight: bold;
+}
+
+/* Tis fourth section displays the form and all its requirements */
+
+#form-elements {
+	background-color: #A0C4BD;
+	border-radius: 20px;
+	border: 2px solid green;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 10px 20px;
+}
+
+fieldset {
+	border: 2px dotted black;
+	margin: 10px auto;
+}
+
+legend {
+	font-size: 17px;
+	font-weight: bold;
+	font-family: Arial, monospace;
+}
+
+label {
+	display: block;
+	font-size: 20px;
+	font-family: Times;
+}
+
+input {
+	display: block;
+	width: 500px;
+	height: 30px;
+	font-size: 20px;
+	font-family: Times;
+	border-radius: 5px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+
+#name, #email, #password {
+	margin-bottom: 10px;
+}
+
+#tools {
+	width: 300px;
+	height: 30px;
+	margin: 10px 20px;
+	font-size: 20px;
+	font-family: Times;
+}
+
+.inline {
+	width: unset;
+	display: inline;
+	vertical-align: middle;
+	font-size: 30px;
+}
+
+.checkbox {
+	width: unset;
+	display: inline;
+	vertical-align: middle;
+}
+
+input[value="battery"], input[value="accessories"], input[value="manuals"]  {
+	width: 20px;
+	height: 20px;
+	font-size: 30px;
+}
+
+
+textarea {
+	margin-top: 10px;
+}
+
+input.submit {
+	background-color: #CACACA;
+	width: 140px;
+	font-family: Arial;
+	font-size: 16px;
+	margin: 10px auto;
+	border-radius: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+input.submit:hover {
+	background-color: #818181;
+	color: white;
+	border: 1px solid #818181;
+	font-weight: bold;
+}
+
+footer {
+	text-align: center;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+/* 
+	Jonathan Stewart
+	240830K7WS
+	703722
+	jonjonstew09@gmail.com 
+*/
