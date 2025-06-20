@@ -25,3 +25,5 @@ Date: June 18, 2025
 ---
 
 📬 For questions or suggestions, open an issue or contact via GitHub.
+
+*** This porject is for educational and demonstration purposes only ***
