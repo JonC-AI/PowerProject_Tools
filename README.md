@@ -20,7 +20,7 @@ This project is a promotional web page for the **PowerProject KLE550 Series** �
 ## 🧑‍💻 Author
 
 Jonathan Stewart  
-Date: June 17, 2025
+Date: June 18, 2025
 
 ---
 
